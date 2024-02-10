@@ -1,6 +1,10 @@
 # Zeylon
 Zeylon - The Forgotten Relams
 
+<h1 align="center">
+ <img src="https://imgur.com/a/ZSdrAUV"/>
+</h1>
+
 A Zombie Island Adventure
 -----------------------------------------------------------------
 Welcome to Zeylon - The Forgotten Realms, an immersive game developed using Unreal Engine 5.3.2! Immerse yourself in a mysterious journey as you navigate through an abandoned island filled with fog and discover its dark secrets. Are you ready to uncover the truth?
@@ -9,6 +13,11 @@ Welcome to Zeylon - The Forgotten Realms, an immersive game developed using Unre
 In Zeylon - The Forgotten Realms, players assume the role of a young girl who suddenly awakens on a lonely island. As she explores her surroundings, she realizes that the island is infested with zombies. The landscape of the island is a representation of old, lonely Sri Lankan famous places such as temples, Lotus Tower, and Dalada Maligawa. The atmosphere is eerie, with fog enveloping the environment, creating an unsettling ambiance.
 
 The objective of the game is to solve the mystery of the island by navigating through various challenges. Players must eliminate zombies, find keys to unlock new areas, and ascend to the top of the mountain to uncover the ultimate secret hidden at the summit. It's a complete mystery zombie adventure that will keep players on the edge of their seats!
+
+<h1 align="center">
+ <img src="https://imgur.com/a/4BlrMym"/>
+</h1>
+
 
 # Changelog
 
