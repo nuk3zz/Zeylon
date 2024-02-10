@@ -18,21 +18,21 @@ The objective of the game is to solve the mystery of the island by navigating th
 
 <b>Version 1.2.1</b>
 </br>
-Added some SFX Elements.
+Added some SFX Elements.</br>
 Fixed some collision glitches
 
-<br>Version 1.2<br>
-Fixed a bug where zombies would runs super fast.
+<b>Version 1.2</b>
+Fixed a bug where zombies would runs super fast.</br>
 Adjusted fog density for improved visual experience.
 
-<br>Version 1.0.1<br>
+<b>Version 1.0.1</b>
 </br>
-Added Intro and Ending Cinematics to the game.
+Added Intro and Ending Cinematics to the game.</br>
 Updated splash screen of unreal project
 
-<br>Version 1.0.0<br>
+<b>Version 1.0.0</b>
 </br>
-Fixed a bug where zombies would runs super fast.
+Fixed a bug where zombies would runs super fast. </br>
 Adjusted fog density for improved visual experience.
 
 # Team Members
