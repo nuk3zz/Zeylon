@@ -1,9 +1,7 @@
 # Zeylon
 Zeylon - The Forgotten Relams
 
-<h1 align="center">
- <img src="https://imgur.com/a/ZSdrAUV"/>
-</h1>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZSdrAUV" data-context="false" ><a href="//imgur.com/a/ZSdrAUV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 A Zombie Island Adventure
 -----------------------------------------------------------------
@@ -14,10 +12,7 @@ In Zeylon - The Forgotten Realms, players assume the role of a young girl who su
 
 The objective of the game is to solve the mystery of the island by navigating through various challenges. Players must eliminate zombies, find keys to unlock new areas, and ascend to the top of the mountain to uncover the ultimate secret hidden at the summit. It's a complete mystery zombie adventure that will keep players on the edge of their seats!
 
-<h1 align="center">
- <img src="https://imgur.com/a/4BlrMym"/>
-</h1>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4BlrMym" data-context="false" ><a href="//imgur.com/a/4BlrMym"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Changelog
 
