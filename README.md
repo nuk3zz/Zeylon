@@ -16,6 +16,10 @@ The objective of the game is to solve the mystery of the island by navigating th
 
 # Changelog
 
+<b>Version 1.3</b>
+</br>
+• Fixed Zombie Scream bug.</br>
+
 <b>Version 1.2.1</b>
 </br>
 • Added some SFX Elements.</br>
